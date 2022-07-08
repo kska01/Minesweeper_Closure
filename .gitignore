@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
