@@ -10,6 +10,14 @@
       <module name="Minesweeper.Topics-Jumps_and_returns-Jumping_out.main" target="11" />
       <module name="Minesweeper.Topics-Jumps_and_returns-Theory.main" target="11" />
       <module name="Minesweeper.Topics-Jumps_and_returns-Whole_truth_about_continue.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-Addition_and_multiplication.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-Appending_numbers_to_strings.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-Concatenation.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-Fix_it.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-I'm_learning_Kotlin.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-JSON.main" target="11" />
+      <module name="Minesweeper.Topics-String_basics-Theory.main" target="11" />
       <module name="Minesweeper.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
