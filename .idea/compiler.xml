@@ -28,6 +28,15 @@
       <module name="Minesweeper.Topics-String_basics-I'm_learning_Kotlin.main" target="11" />
       <module name="Minesweeper.Topics-String_basics-JSON.main" target="11" />
       <module name="Minesweeper.Topics-String_basics-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Direction.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Find_the_output.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Find_the_output__1_.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-From_string_to_a_number.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Harry_Potter.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Select_correct_branches.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Shape.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-String_processor.main" target="11" />
+      <module name="Minesweeper.Topics-When_expression-Theory.main" target="11" />
       <module name="Minesweeper.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
