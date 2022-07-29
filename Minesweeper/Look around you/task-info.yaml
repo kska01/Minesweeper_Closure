@@ -7,7 +7,19 @@ files:
     package minesweeper
 
     fun main() {
-        print("Hello, World!")
+        print(
+            """
+                .x.......
+                ....xx...
+                ..x......
+                x........
+                ...x..x..
+                ........x
+                .........
+                .....x...
+                .......x.
+            """.trimIndent()
+        )
     }
   learner_created: false
 - name: test/MinesweeperTest.java
@@ -143,6 +155,6 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/7688#comment
+feedback_link: https://hyperskill.org/projects/8/stages/48/implement#comment
 status: Unchecked
 record: -1

@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="#JAVA_INTERNAL" />
@@ -13,73 +11,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Minesweeper/task" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/classes/java" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/classes/kotlin" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/generated/sources/annotationProcessor/java" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/generated/sources/headers/java" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/reports/tests" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/test-results" />
-            <option value="$PROJECT_DIR$/Minesweeper/task/build/tmp" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Comparing sums" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Division" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Get last digit" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Parameters" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Right equation" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/The square of a number" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/The sum of three numbers" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/Vowel or not" />
-            <option value="$PROJECT_DIR$/Topics/Declaring functions/What should be specified" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Healthy sleep" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Interval" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Leap year" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Number dividers" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Queens" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Statements about brackets in if" />
-            <option value="$PROJECT_DIR$/Topics/If expression/The max of three numbers" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
-            <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Equal lists" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of characters" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of longs" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Swap" />
-            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Beyond the word" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Jumping out" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/Piece of alphabet" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/The lucky ticket" />
-            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
-            <option value="$PROJECT_DIR$/Topics/String basics/Addition and multiplication" />
-            <option value="$PROJECT_DIR$/Topics/String basics/Appending numbers to strings" />
-            <option value="$PROJECT_DIR$/Topics/String basics/Concatenation" />
-            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
-            <option value="$PROJECT_DIR$/Topics/String basics/Fix it" />
-            <option value="$PROJECT_DIR$/Topics/String basics/I'm learning Kotlin" />
-            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
-            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Direction" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Find the output" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Find the output (1)" />
-            <option value="$PROJECT_DIR$/Topics/When expression/From string to a number" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Harry Potter" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Select correct branches" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Shape" />
-            <option value="$PROJECT_DIR$/Topics/When expression/String processor" />
-            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Define a for-loop" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/For-loop definitions" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
