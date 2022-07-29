@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="323b6dac-79bc-4568-8ee6-a3a080ce3a4e" name="Changes" comment="07.28">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Comparing sums/Minesweeper.Topics-Declaring_functions-Comparing_sums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Comparing sums/Minesweeper.Topics-Declaring_functions-Comparing_sums.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Comparing sums/Minesweeper.Topics-Declaring_functions-Comparing_sums.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Division/Minesweeper.Topics-Declaring_functions-Division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Division/Minesweeper.Topics-Declaring_functions-Division.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Division/Minesweeper.Topics-Declaring_functions-Division.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Get last digit/Minesweeper.Topics-Declaring_functions-Get_last_digit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Get last digit/Minesweeper.Topics-Declaring_functions-Get_last_digit.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Get last digit/Minesweeper.Topics-Declaring_functions-Get_last_digit.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Parameters/Minesweeper.Topics-Declaring_functions-Parameters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Parameters/Minesweeper.Topics-Declaring_functions-Parameters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Parameters/Minesweeper.Topics-Declaring_functions-Parameters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Right equation/Minesweeper.Topics-Declaring_functions-Right_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Right equation/Minesweeper.Topics-Declaring_functions-Right_equation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Right equation/Minesweeper.Topics-Declaring_functions-Right_equation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The sum of three numbers/Minesweeper.Topics-Declaring_functions-The_sum_of_three_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The sum of three numbers/Minesweeper.Topics-Declaring_functions-The_sum_of_three_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The sum of three numbers/Minesweeper.Topics-Declaring_functions-The_sum_of_three_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Theory/Minesweeper.Topics-Declaring_functions-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Theory/Minesweeper.Topics-Declaring_functions-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Theory/Minesweeper.Topics-Declaring_functions-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Vowel or not/Minesweeper.Topics-Declaring_functions-Vowel_or_not.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Vowel or not/Minesweeper.Topics-Declaring_functions-Vowel_or_not.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/Vowel or not/Minesweeper.Topics-Declaring_functions-Vowel_or_not.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/What should be specified/Minesweeper.Topics-Declaring_functions-What_should_be_specified.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/What should be specified/Minesweeper.Topics-Declaring_functions-What_should_be_specified.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/What should be specified/Minesweeper.Topics-Declaring_functions-What_should_be_specified.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of two numbers without else-branch/Minesweeper.Topics-If_expression-The_max_of_two_numbers_without_else-branch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of two numbers without else-branch/Minesweeper.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of two numbers without else-branch/Minesweeper.Topics-If_expression-The_max_of_two_numbers_without_else-branch.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Equal lists/Minesweeper.Topics-Introduction_to_MutableList-Equal_lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Equal lists/Minesweeper.Topics-Introduction_to_MutableList-Equal_lists.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Equal lists/Minesweeper.Topics-Introduction_to_MutableList-Equal_lists.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a list/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a list/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_list.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a list/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_list.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a mutable list of characters/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a mutable list of characters/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a mutable list of characters/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a mutable list of longs/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a mutable list of longs/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a mutable list of longs/Minesweeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Printing the last element/Minesweeper.Topics-Introduction_to_MutableList-Printing_the_last_element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Printing the last element/Minesweeper.Topics-Introduction_to_MutableList-Printing_the_last_element.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Printing the last element/Minesweeper.Topics-Introduction_to_MutableList-Printing_the_last_element.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Right ways to create mutable lists/Minesweeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Right ways to create mutable lists/Minesweeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Right ways to create mutable lists/Minesweeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Swap/Minesweeper.Topics-Introduction_to_MutableList-Swap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Swap/Minesweeper.Topics-Introduction_to_MutableList-Swap.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Swap/Minesweeper.Topics-Introduction_to_MutableList-Swap.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Theory/Minesweeper.Topics-Introduction_to_MutableList-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Theory/Minesweeper.Topics-Introduction_to_MutableList-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Theory/Minesweeper.Topics-Introduction_to_MutableList-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Placement of ships/Minesweeper.Topics-Jumps_and_returns-Placement_of_ships.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Placement of ships/Minesweeper.Topics-Jumps_and_returns-Placement_of_ships.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Placement of ships/Minesweeper.Topics-Jumps_and_returns-Placement_of_ships.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Compression algorithm/Minesweeper.Topics-Processing_strings-Compression_algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Compression algorithm/Minesweeper.Topics-Processing_strings-Compression_algorithm.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Compression algorithm/Minesweeper.Topics-Processing_strings-Compression_algorithm.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Minesweeper.Topics-Processing_strings-Move_the_first_N_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Minesweeper.Topics-Processing_strings-Move_the_first_N_characters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Minesweeper.Topics-Processing_strings-Move_the_first_N_characters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Minesweeper.Topics-Processing_strings-Number_of_occurrences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Minesweeper.Topics-Processing_strings-Number_of_occurrences.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Minesweeper.Topics-Processing_strings-Number_of_occurrences.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Parse url/Minesweeper.Topics-Processing_strings-Parse_url.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Parse url/Minesweeper.Topics-Processing_strings-Parse_url.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Parse url/Minesweeper.Topics-Processing_strings-Parse_url.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Piece of alphabet/Minesweeper.Topics-Processing_strings-Piece_of_alphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Piece of alphabet/Minesweeper.Topics-Processing_strings-Piece_of_alphabet.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Piece of alphabet/Minesweeper.Topics-Processing_strings-Piece_of_alphabet.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The longest word/Minesweeper.Topics-Processing_strings-The_longest_word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The longest word/Minesweeper.Topics-Processing_strings-The_longest_word.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The longest word/Minesweeper.Topics-Processing_strings-The_longest_word.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The lucky ticket/Minesweeper.Topics-Processing_strings-The_lucky_ticket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The lucky ticket/Minesweeper.Topics-Processing_strings-The_lucky_ticket.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The lucky ticket/Minesweeper.Topics-Processing_strings-The_lucky_ticket.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Minesweeper.Topics-Processing_strings-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Minesweeper.Topics-Processing_strings-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Minesweeper.Topics-Processing_strings-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Are the numbers different/Minesweeper.Topics-Relational_operators-Are_the_numbers_different.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Are the numbers different/Minesweeper.Topics-Relational_operators-Are_the_numbers_different.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Are the numbers different/Minesweeper.Topics-Relational_operators-Are_the_numbers_different.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Boys in the sport class/Minesweeper.Topics-Relational_operators-Boys_in_the_sport_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Boys in the sport class/Minesweeper.Topics-Relational_operators-Boys_in_the_sport_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Boys in the sport class/Minesweeper.Topics-Relational_operators-Boys_in_the_sport_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the sum/Minesweeper.Topics-Relational_operators-Check_the_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the sum/Minesweeper.Topics-Relational_operators-Check_the_sum.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the sum/Minesweeper.Topics-Relational_operators-Check_the_sum.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value (1)/Minesweeper.Topics-Relational_operators-Check_the_value__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value (1)/Minesweeper.Topics-Relational_operators-Check_the_value__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value (1)/Minesweeper.Topics-Relational_operators-Check_the_value__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value/Minesweeper.Topics-Relational_operators-Check_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value/Minesweeper.Topics-Relational_operators-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value/Minesweeper.Topics-Relational_operators-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Exactly one parameter is positive/Minesweeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Exactly one parameter is positive/Minesweeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Exactly one parameter is positive/Minesweeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Groundhogs at the party/Minesweeper.Topics-Relational_operators-Groundhogs_at_the_party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Groundhogs at the party/Minesweeper.Topics-Relational_operators-Groundhogs_at_the_party.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Groundhogs at the party/Minesweeper.Topics-Relational_operators-Groundhogs_at_the_party.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Inbetween/Minesweeper.Topics-Relational_operators-Inbetween.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Inbetween/Minesweeper.Topics-Relational_operators-Inbetween.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Inbetween/Minesweeper.Topics-Relational_operators-Inbetween.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Job offer/Minesweeper.Topics-Relational_operators-Job_offer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Job offer/Minesweeper.Topics-Relational_operators-Job_offer.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Job offer/Minesweeper.Topics-Relational_operators-Job_offer.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Theory/Minesweeper.Topics-Relational_operators-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Theory/Minesweeper.Topics-Relational_operators-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Theory/Minesweeper.Topics-Relational_operators-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/When the result is true/Minesweeper.Topics-Relational_operators-When_the_result_is_true.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/When the result is true/Minesweeper.Topics-Relational_operators-When_the_result_is_true.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/When the result is true/Minesweeper.Topics-Relational_operators-When_the_result_is_true.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Direction/Minesweeper.Topics-When_expression-Direction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Direction/Minesweeper.Topics-When_expression-Direction.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Direction/Minesweeper.Topics-When_expression-Direction.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Find the output (1)/Minesweeper.Topics-When_expression-Find_the_output__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Find the output (1)/Minesweeper.Topics-When_expression-Find_the_output__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Find the output (1)/Minesweeper.Topics-When_expression-Find_the_output__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Find the output/Minesweeper.Topics-When_expression-Find_the_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Find the output/Minesweeper.Topics-When_expression-Find_the_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Find the output/Minesweeper.Topics-When_expression-Find_the_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Minesweeper.Topics-When_expression-From_string_to_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Minesweeper.Topics-When_expression-From_string_to_a_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Minesweeper.Topics-When_expression-From_string_to_a_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Harry Potter/Minesweeper.Topics-When_expression-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Harry Potter/Minesweeper.Topics-When_expression-Harry_Potter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Harry Potter/Minesweeper.Topics-When_expression-Harry_Potter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Select correct branches/Minesweeper.Topics-When_expression-Select_correct_branches.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Select correct branches/Minesweeper.Topics-When_expression-Select_correct_branches.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Select correct branches/Minesweeper.Topics-When_expression-Select_correct_branches.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Shape/Minesweeper.Topics-When_expression-Shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Shape/Minesweeper.Topics-When_expression-Shape.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Shape/Minesweeper.Topics-When_expression-Shape.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/String processor/Minesweeper.Topics-When_expression-String_processor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/String processor/Minesweeper.Topics-When_expression-String_processor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/String processor/Minesweeper.Topics-When_expression-String_processor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Minesweeper.Topics-When_expression-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Minesweeper.Topics-When_expression-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Minesweeper.Topics-When_expression-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the sum/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the sum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the sum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the sum/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Inbetween/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Inbetween/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Inbetween/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Inbetween/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The square of a number/Minesweeper.Topics-Declaring_functions-The_square_of_a_number.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The square of a number/Minesweeper.Topics-Declaring_functions-The_square_of_a_number.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The square of a number/Minesweeper.Topics-Declaring_functions-The_square_of_a_number.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring functions/The square of a number/Minesweeper.Topics-Declaring_functions-The_square_of_a_number.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Minesweeper.Topics-If_expression-Healthy_sleep.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Minesweeper.Topics-If_expression-Healthy_sleep.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Minesweeper.Topics-If_expression-Healthy_sleep.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Minesweeper.Topics-If_expression-Healthy_sleep.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Interval/Minesweeper.Topics-If_expression-Interval.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Interval/Minesweeper.Topics-If_expression-Interval.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Interval/Minesweeper.Topics-If_expression-Interval.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Interval/Minesweeper.Topics-If_expression-Interval.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Knights/Minesweeper.Topics-If_expression-Knights.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Knights/Minesweeper.Topics-If_expression-Knights.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Knights/Minesweeper.Topics-If_expression-Knights.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Knights/Minesweeper.Topics-If_expression-Knights.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Leap year/Minesweeper.Topics-If_expression-Leap_year.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Leap year/Minesweeper.Topics-If_expression-Leap_year.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Leap year/Minesweeper.Topics-If_expression-Leap_year.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Leap year/Minesweeper.Topics-If_expression-Leap_year.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Number dividers/Minesweeper.Topics-If_expression-Number_dividers.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Number dividers/Minesweeper.Topics-If_expression-Number_dividers.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Number dividers/Minesweeper.Topics-If_expression-Number_dividers.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Number dividers/Minesweeper.Topics-If_expression-Number_dividers.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Minesweeper.Topics-If_expression-Queens.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Minesweeper.Topics-If_expression-Queens.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Minesweeper.Topics-If_expression-Queens.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Minesweeper.Topics-If_expression-Queens.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Statements about brackets in if/Minesweeper.Topics-If_expression-Statements_about_brackets_in_if.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Statements about brackets in if/Minesweeper.Topics-If_expression-Statements_about_brackets_in_if.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Statements about brackets in if/Minesweeper.Topics-If_expression-Statements_about_brackets_in_if.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Statements about brackets in if/Minesweeper.Topics-If_expression-Statements_about_brackets_in_if.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of three numbers/Minesweeper.Topics-If_expression-The_max_of_three_numbers.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of three numbers/Minesweeper.Topics-If_expression-The_max_of_three_numbers.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of three numbers/Minesweeper.Topics-If_expression-The_max_of_three_numbers.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of three numbers/Minesweeper.Topics-If_expression-The_max_of_three_numbers.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Minesweeper.Topics-If_expression-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Minesweeper.Topics-If_expression-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Minesweeper.Topics-If_expression-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Minesweeper.Topics-If_expression-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Triangle/Minesweeper.Topics-If_expression-Triangle.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Triangle/Minesweeper.Topics-If_expression-Triangle.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Triangle/Minesweeper.Topics-If_expression-Triangle.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Triangle/Minesweeper.Topics-If_expression-Triangle.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Beyond the word/Minesweeper.Topics-Jumps_and_returns-Beyond_the_word.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Beyond the word/Minesweeper.Topics-Jumps_and_returns-Beyond_the_word.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Beyond the word/Minesweeper.Topics-Jumps_and_returns-Beyond_the_word.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Beyond the word/Minesweeper.Topics-Jumps_and_returns-Beyond_the_word.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Correct jumping/Minesweeper.Topics-Jumps_and_returns-Correct_jumping.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Correct jumping/Minesweeper.Topics-Jumps_and_returns-Correct_jumping.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Correct jumping/Minesweeper.Topics-Jumps_and_returns-Correct_jumping.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Correct jumping/Minesweeper.Topics-Jumps_and_returns-Correct_jumping.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/First digit/Minesweeper.Topics-Jumps_and_returns-First_digit.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/First digit/Minesweeper.Topics-Jumps_and_returns-First_digit.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/First digit/Minesweeper.Topics-Jumps_and_returns-First_digit.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/First digit/Minesweeper.Topics-Jumps_and_returns-First_digit.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Minesweeper.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Minesweeper.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Minesweeper.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Minesweeper.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Jumping out/Minesweeper.Topics-Jumps_and_returns-Jumping_out.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Jumping out/Minesweeper.Topics-Jumps_and_returns-Jumping_out.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Jumping out/Minesweeper.Topics-Jumps_and_returns-Jumping_out.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Jumping out/Minesweeper.Topics-Jumps_and_returns-Jumping_out.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Theory/Minesweeper.Topics-Jumps_and_returns-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Theory/Minesweeper.Topics-Jumps_and_returns-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Theory/Minesweeper.Topics-Jumps_and_returns-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Theory/Minesweeper.Topics-Jumps_and_returns-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Minesweeper.Topics-Jumps_and_returns-Whole_truth_about_continue.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Minesweeper.Topics-Jumps_and_returns-Whole_truth_about_continue.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Minesweeper.Topics-Jumps_and_returns-Whole_truth_about_continue.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Minesweeper.Topics-Jumps_and_returns-Whole_truth_about_continue.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Addition and multiplication/Minesweeper.Topics-String_basics-Addition_and_multiplication.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Addition and multiplication/Minesweeper.Topics-String_basics-Addition_and_multiplication.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Addition and multiplication/Minesweeper.Topics-String_basics-Addition_and_multiplication.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Addition and multiplication/Minesweeper.Topics-String_basics-Addition_and_multiplication.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Appending numbers to strings/Minesweeper.Topics-String_basics-Appending_numbers_to_strings.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Appending numbers to strings/Minesweeper.Topics-String_basics-Appending_numbers_to_strings.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Appending numbers to strings/Minesweeper.Topics-String_basics-Appending_numbers_to_strings.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Appending numbers to strings/Minesweeper.Topics-String_basics-Appending_numbers_to_strings.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Minesweeper.Topics-String_basics-Concatenation.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Minesweeper.Topics-String_basics-Concatenation.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Minesweeper.Topics-String_basics-Concatenation.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Minesweeper.Topics-String_basics-Concatenation.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Minesweeper.Topics-String_basics-Correct_ways_to_create_a_string.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Minesweeper.Topics-String_basics-Correct_ways_to_create_a_string.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Minesweeper.Topics-String_basics-Correct_ways_to_create_a_string.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Minesweeper.Topics-String_basics-Correct_ways_to_create_a_string.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Fix it/Minesweeper.Topics-String_basics-Fix_it.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Fix it/Minesweeper.Topics-String_basics-Fix_it.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Fix it/Minesweeper.Topics-String_basics-Fix_it.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Fix it/Minesweeper.Topics-String_basics-Fix_it.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/I'm learning Kotlin/Minesweeper.Topics-String_basics-I'm_learning_Kotlin.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/I'm learning Kotlin/Minesweeper.Topics-String_basics-I'm_learning_Kotlin.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/I'm learning Kotlin/Minesweeper.Topics-String_basics-I'm_learning_Kotlin.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/I'm learning Kotlin/Minesweeper.Topics-String_basics-I'm_learning_Kotlin.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Minesweeper.Topics-String_basics-JSON.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Minesweeper.Topics-String_basics-JSON.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Minesweeper.Topics-String_basics-JSON.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Minesweeper.Topics-String_basics-JSON.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Minesweeper.Topics-String_basics-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Minesweeper.Topics-String_basics-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Minesweeper.Topics-String_basics-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Minesweeper.Topics-String_basics-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper/Flexible mines/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/Flexible mines/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper/Lay the groundwork/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/Lay the groundwork/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper/task/test/MinesweeperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/test/MinesweeperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/A Family/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/A Family/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Interval/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Interval/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Interval/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Interval/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Leap year/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Leap year/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Leap year/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Leap year/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Number dividers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Number dividers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Number dividers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Number dividers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/If expression/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/If expression/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of characters/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of characters/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of longs/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of longs/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of longs/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of longs/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Jumps and returns/Mixing/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Jumps and returns/Mixing/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Jumps and returns/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Jumps and returns/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Addition and multiplication/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Addition and multiplication/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/All robots speak Kotlin/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/All robots speak Kotlin/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Appending numbers to strings/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Appending numbers to strings/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Concatenation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Concatenation/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Construct the spell/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Construct the spell/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String basics/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String basics/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CYsOCaFLHXZcAM5QgSv2BS9A9S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Minesweeper.Topics-Relational_operators-Boys_in_the_sport_class.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="323b6dac-79bc-4568-8ee6-a3a080ce3a4e" name="Changes" comment="" />
+      <created>1658990821746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658990821746</updated>
+    </task>
+    <task id="LOCAL-00001" summary="07.28">
+      <created>1658994744404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658994744404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="07.28">
+      <created>1658994816235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658994816235</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="07.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.28" />
+  </component>
+</project>
